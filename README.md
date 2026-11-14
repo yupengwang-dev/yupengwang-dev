@@ -112,6 +112,8 @@ Predicted the earthquake damage grade of buildings (three levels) from structura
 - Found that only about 25 of 238 features carried signal, and corrected for different class ratios between training and test data
 - Combined six models (LightGBM, CatBoost, a neural network, and GLMs) in a stacking ensemble, reaching a cross-validated balanced accuracy of 0.686
 
+**Code:** [yupengwang-dev/seismic-damage-prediction](https://github.com/yupengwang-dev/seismic-damage-prediction)
+
 ### Real-Time Traffic-Sign Recognition · Jul – Aug 2025
 *Smart Mobility Competition, China Engineering Consultants, Inc. · Team of five · 5th Place*
 

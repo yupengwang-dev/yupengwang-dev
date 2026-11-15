@@ -22,6 +22,11 @@ Taipei, Taiwan · b11605031@ntu.edu.tw · [LinkedIn](https://www.linkedin.com/in
   <sub>Research poster, CAE Summer Internship 2026</sub>
 </p>
 
+<p align="center">
+  <img src="assets/cae_internship_certificate.jpg" width="620" alt="At the end of the 2026 CAE Summer Internship: mentor Akarsth Kumar Singh, a fellow intern, Prof. Shang-Hsien Hsieh, and Yu-Peng Wang, with internship certificates"><br>
+  <sub>Receiving the internship certificate with Prof. Shang-Hsien Hsieh and mentor Akarsth Kumar Singh, CAE Summer Internship 2026</sub>
+</p>
+
 ### Procedural Graphs for BIM Agents
 *Undergraduate Researcher, Computer-Aided Engineering Group, NTU · Sep 2026 – Present*<br>*Advisor: Prof. Shang-Hsien Hsieh · Mentor: Akarsth Kumar Singh*
 

@@ -34,7 +34,7 @@ Taipei, Taiwan · b11605031@ntu.edu.tw · [LinkedIn](https://www.linkedin.com/in
 - Investigate trace-based learning and fine-tuning with limited domain-specific training data
 
 ### EEG-Based Prediction of Golf-Putting Success
-*Undergraduate Research Student, Master Program in Statistics, NTU · Feb 2026 – Present*<br>*Advisor: Prof. Yan-Bin Chen*
+*Undergraduate Researcher, Master Program in Statistics, NTU · Feb 2026 – Present*<br>*Advisor: Prof. Yan-Bin Chen*
 
 - Engineered features from pre-putt electroencephalography (EEG) recordings and tuned an XGBoost classifier to predict putting success
 - Across 14 comparative experiments, reduced the feature set from 570 to 57 using three midline channels while raising AUROC from 0.48 to 0.72 on the same test set
@@ -62,7 +62,7 @@ A 12-meter double-curvature cedar footbridge, now open to visitors.
 </p>
 
 ### Carousel: Floating Wind Turbine Tower · Dec 2024
-*Conceptual Design Studio, NTU · Team of four*<br>*Best Structural Design, Student's Choice, and TA's Choice*
+*Conceptual Design Studio, NTU · Team of four*<br>*Best Structural Design, Students' Choice, and TAs' Choice*
 
 Designed, built, and tested a scale-model floating wind turbine tower with a rotating base and a mooring system.
 
@@ -156,7 +156,7 @@ An iOS app, set in a 3D digital twin of Taiwan, that gives people a new way to t
 |---|---|
 | 2026 | NTU Garage Startup Incubation Program, 2026 Cohort — one of 20 teams selected from about 100 applicants |
 | 2025 | 5th Place, Smart Mobility Competition, China Engineering Consultants, Inc. |
-| 2024 | Best Structural Design, Student's Choice, and TA's Choice — Conceptual Design Studio final exhibition, NTU |
+| 2024 | Best Structural Design, Students' Choice, and TAs' Choice — Conceptual Design Studio final exhibition, NTU |
 | 2024 | Most Thrilling Track Award — Physical Model Design Laboratory final exhibition, NTU |
 | 2023 | Academic Excellence Award, Department of Forestry, NTU — ranked first in the department (GPA 4.30/4.30) |
 

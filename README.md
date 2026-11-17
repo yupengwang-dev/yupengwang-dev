@@ -15,7 +15,6 @@ Taipei, Taiwan · b11605031@ntu.edu.tw · [LinkedIn](https://www.linkedin.com/in
 
 - Rebuilt an IFC-to-Neo4j knowledge-graph pipeline using IfcOpenShell, with workflows that validate LLM-generated query specifications before execution
 - Developed a web interface with a 3D viewer for BIM models
-- Benchmarked five commercial and open-source LLMs on 100 questions for accuracy, latency, and API cost, using LLM-as-a-judge; the best model reached 75% accuracy at a 6.6 s median latency
 
 <p align="center">
   <a href="assets/bimantic_poster.jpg"><img src="assets/bimantic_poster.jpg" width="620" alt="Research poster: Natural Language Querying of IFC Models Using LLM-Generated Knowledge Graph"></a><br>
